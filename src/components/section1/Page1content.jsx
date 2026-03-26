@@ -1,12 +1,14 @@
-import Leftcontent from "./leftcontent"
-import Rightcontent from "./rightcontent"
+import Leftcontent from "./Leftcontent"
+import Rightcontent from "./Rightcontent"
 
 
-const Page1content = () => {
+const Page1content = (props) => {
+  
+  
   return (
     <div className="py-10 px-18 flex items-center gap-10 h-[90vh]">
         <Leftcontent />
-        <Rightcontent />
+        <Rightcontent users = {props.users}/>
     </div>
   )
 }
