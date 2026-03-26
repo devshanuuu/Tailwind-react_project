@@ -11,6 +11,7 @@ This project demonstrates:
 - Creating reusable React components
 - Structuring a UI using Tailwind CSS
 - Passing dynamic data using props
+- Rendering lists using .map()
 
 ---
 
