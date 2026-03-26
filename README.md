@@ -1,16 +1,33 @@
-# React + Vite
+🚀 React UI Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple UI-focused application built using React and Tailwind CSS.
+The main goal of this project is to understand how component-based architecture works in React and how data flows using props.
 
-Currently, two official plugins are available:
+📌 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project demonstrates:
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Creating reusable React components
+Structuring a UI using Tailwind CSS
+Passing dynamic data using props
+Rendering lists using .map()
+Building a clean and responsive layout
+🛠️ Tech Stack
+⚛️ React (Vite)
+🎨 Tailwind CSS
+💡 JavaScript (ES6+)
+🎯 Features
+Component-based UI structure
+Dynamic card rendering using data arrays
+Horizontal scrollable card section
+Clean and modern UI using Tailwind CSS
+Reusable components like:
+Navbar
+Content Sections
+Cards
+🧠 Key Concepts Learned
+Props in React (data passing from parent to child)
+Component Reusability
+Conditional Rendering
+Mapping through arrays to render UI
+Project structure in React apps
